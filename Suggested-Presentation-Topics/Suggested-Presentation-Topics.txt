@@ -1,0 +1,7 @@
+
+    Intro to API and popular API architectures
+    Cloud architecture and services on Metaverse
+    Quantum Cloud
+    Cloud Security and Privacy
+    Cloud Economic model
+    Cloud and blockchain based services
